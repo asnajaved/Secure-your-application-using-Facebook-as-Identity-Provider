@@ -71,7 +71,11 @@ Go back to Go back to App ID Dashboard on IBM Cloud, select Identity provider, c
 
 <img width="668" alt="15" src="https://user-images.githubusercontent.com/16270682/119489981-b6c32e00-bd75-11eb-9807-e015e349787f.PNG">
 
+Your application can now by accessed using social login's by end users
 
+## Step 5: Deploy your app on IM Cloud (Optional)
+
+Follow this link : https://ibmdevhub.gitbook.io/social-login-webinar/getting-started/optional 
 
 
 
